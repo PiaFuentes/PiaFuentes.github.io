@@ -1,0 +1,200 @@
+h1{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 300%;
+    color: white;
+    text-align: center;
+
+}
+
+body{
+    background-color: black;
+    background-size: cover;
+    opacity: 0,5;
+}
+p1{
+    font-family: 'Times New Roman', Times, serif;
+    color: aliceblue;
+    text-align: center;
+}
+p2{
+    color: aliceblue;
+    border-color: ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+    text-align: center;
+    font-size: 150%;
+}
+h2{
+    color: aliceblue;
+    text-align: center;
+    border-color: aquamarine;
+    text-shadow: 10em;
+    font-size: 200%;
+}
+h3{
+    color: aliceblue;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 170%;
+}
+a{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 200%;
+    color: aqua;
+}
+p{
+    font-size: 100%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aliceblue;
+}
+
+.integrantes{
+    text-align: left;
+}
+.bienvenida{
+    text-align: center;
+}
+.stroke{
+    text-shadow: 1px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 350%;
+    text-decoration: underline overline solid goldenrod;
+}
+.balondeoro{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 270%;
+    color: blanchedalmond;
+}
+.segundobalon{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: darkgoldenrod;
+    font-size: 270%;
+}
+.palmares{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: goldenrod;
+    font-size: 270%;
+    text-align: left;
+}
+.madrid{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: azure;
+    font-size: 200%;
+    text-align: left;
+}
+.madrid2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: blanchedalmond;
+    font-size: 200%;
+    text-align: left;
+}
+.madrid3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: blanchedalmond;
+    font-size: 200%;
+    text-align: left;
+}
+.madrid4{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: blanchedalmond;
+    font-size: 200%;
+    text-align: left;
+}
+.record{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: darkgoldenrod;
+    font-size: 250%;
+}
+.div{
+    background-color: black;
+    width: 1150px;
+    border: 25px solid red;
+    padding: 20px;
+    margin: 50px;
+    
+    
+}
+.xd{
+    background-color: black;
+    width: 1150px;
+    border: 25px solid red;
+    padding : 20px;
+    margin: 50px;
+}
+.ty{
+    background-color: black;
+    width: 1100px;
+    border: 25px solid red;
+    padding: 20px;
+    margin: 50px;
+}
+.debut{
+    text-decoration: underline overline solid red ;
+    margin: 50px;
+}
+.united{
+    background-color: black;
+    width: 1150px;
+    border: 25px solid red;
+    padding: 20px;
+    margin: 50px;
+}
+.haciendo{
+    background-color: black;
+    width: 1150px;
+    border: 25px solid yellowgreen;
+    padding: 20px;
+    margin: 50px;
+
+}
+.siuu{
+background-color: black;
+width: 1150px;
+border: 25px solid red;
+padding: 20px;
+margin: 50px
+}
+.diego{
+    background-color: black;
+    width: 1150px;
+    border: 25px solid red;
+    padding: 20px;
+    margin : 50px;
+}
+.gg{
+    background-color: black;
+    width: 1150px;
+    border: 25px solid red;
+    padding: 20px;
+    margin : 50px;
+}
+.ds{
+    background-color: black;
+    width: 1150px;
+    border: 25px solid red;
+    padding: 20px;
+    margin : 50px;
+}
+.dante{
+    background-color: black;
+    width: 1150px;
+    border: 25px solid red;
+    padding: 20px;
+    margin : 50px;
+}
+.ded{
+    background-color: black;
+    width: 1150px;
+    border: 25px solid red;
+    padding: 20px;
+    margin : 50px;
+
+}
+.diegol{
+    text-decoration:  underline crimson;
+    border: 20px;
+}
+.pian{
+    text-decoration:  underline crimson;
+}
